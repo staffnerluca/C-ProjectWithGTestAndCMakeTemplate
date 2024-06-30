@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/run_opt.dir/src/main.cpp.o CMakeFiles/run_opt.dir/src/lexer.cpp.o -o run_opt 

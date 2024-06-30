@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/staffnerluca/Dokumente/resh/build",
+  "command": "/usr/bin/c++  -I/home/staffnerluca/Dokumente/resh/lib -I/home/staffnerluca/Dokumente/resh/googletest/include -g -o CMakeFiles/run_opt.dir/src/main.cpp.o -c /home/staffnerluca/Dokumente/resh/src/main.cpp",
+  "file": "/home/staffnerluca/Dokumente/resh/src/main.cpp"
+},
+{
+  "directory": "/home/staffnerluca/Dokumente/resh/build",
+  "command": "/usr/bin/c++  -I/home/staffnerluca/Dokumente/resh/lib -I/home/staffnerluca/Dokumente/resh/googletest/include -g -o CMakeFiles/run_opt.dir/src/lexer.cpp.o -c /home/staffnerluca/Dokumente/resh/src/lexer.cpp",
+  "file": "/home/staffnerluca/Dokumente/resh/src/lexer.cpp"
+},
+{
+  "directory": "/home/staffnerluca/Dokumente/resh/build",
+  "command": "/usr/bin/c++  -I/home/staffnerluca/Dokumente/resh/lib -I/home/staffnerluca/Dokumente/resh/googletest/include -isystem /home/staffnerluca/Dokumente/resh/googletest/googletest/include -isystem /home/staffnerluca/Dokumente/resh/googletest/googletest -g -o CMakeFiles/run_opt_test.dir/src/lexer.cpp.o -c /home/staffnerluca/Dokumente/resh/src/lexer.cpp",
+  "file": "/home/staffnerluca/Dokumente/resh/src/lexer.cpp"
+},
+{
+  "directory": "/home/staffnerluca/Dokumente/resh/build",
+  "command": "/usr/bin/c++  -I/home/staffnerluca/Dokumente/resh/lib -I/home/staffnerluca/Dokumente/resh/googletest/include -isystem /home/staffnerluca/Dokumente/resh/googletest/googletest/include -isystem /home/staffnerluca/Dokumente/resh/googletest/googletest -g -o CMakeFiles/run_opt_test.dir/tests/lexer-test.cpp.o -c /home/staffnerluca/Dokumente/resh/tests/lexer-test.cpp",
+  "file": "/home/staffnerluca/Dokumente/resh/tests/lexer-test.cpp"
+},
+{
+  "directory": "/home/staffnerluca/Dokumente/resh/build/googletest/googlemock",
+  "command": "/usr/bin/c++  -I/home/staffnerluca/Dokumente/resh/lib -I/home/staffnerluca/Dokumente/resh/googletest/googlemock/include -I/home/staffnerluca/Dokumente/resh/googletest/googlemock -isystem /home/staffnerluca/Dokumente/resh/googletest/googletest/include -isystem /home/staffnerluca/Dokumente/resh/googletest/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/staffnerluca/Dokumente/resh/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/staffnerluca/Dokumente/resh/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/staffnerluca/Dokumente/resh/build/googletest/googlemock",
+  "command": "/usr/bin/c++  -isystem /home/staffnerluca/Dokumente/resh/lib -isystem /home/staffnerluca/Dokumente/resh/googletest/googlemock/include -isystem /home/staffnerluca/Dokumente/resh/googletest/googlemock -isystem /home/staffnerluca/Dokumente/resh/googletest/googletest/include -isystem /home/staffnerluca/Dokumente/resh/googletest/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/staffnerluca/Dokumente/resh/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/staffnerluca/Dokumente/resh/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/staffnerluca/Dokumente/resh/build/googletest/googletest",
+  "command": "/usr/bin/c++  -I/home/staffnerluca/Dokumente/resh/lib -I/home/staffnerluca/Dokumente/resh/googletest/googletest/include -I/home/staffnerluca/Dokumente/resh/googletest/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/staffnerluca/Dokumente/resh/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/staffnerluca/Dokumente/resh/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/staffnerluca/Dokumente/resh/build/googletest/googletest",
+  "command": "/usr/bin/c++  -I/home/staffnerluca/Dokumente/resh/lib -isystem /home/staffnerluca/Dokumente/resh/googletest/googletest/include -isystem /home/staffnerluca/Dokumente/resh/googletest/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/staffnerluca/Dokumente/resh/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/staffnerluca/Dokumente/resh/googletest/googletest/src/gtest_main.cc"
+}
+]

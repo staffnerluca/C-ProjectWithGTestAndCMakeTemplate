@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/run_opt_test.dir/src/lexer.cpp.o CMakeFiles/run_opt_test.dir/tests/lexer-test.cpp.o -o run_opt_test  lib/libgtest_main.a lib/libgtest.a 
