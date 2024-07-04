@@ -1,0 +1,2 @@
+# columns are the standard values and the rows are the synonyms future changes are possible and very likely
+int; bool; doubl; string; List; null; Matrix; Array; complex; if; =; <; >; <=; >=; !=; for; while; ...;
